@@ -8,18 +8,19 @@ Nocode enables programmers and non-programmers to create application software th
 ## Contents
 
 - [Enterprise and Leaders](#enterprise-and-leaders)
-- [Websites](#websites)
 - [Internal](#internal)
 
 ## Enterprise and Leaders
 
 - [Outsystems](https://www.outsystems.com/)
 
-## Websites
-
 ## Internal
 
-- [Retool](https://retool.com/) - Build internal tools, remarkably fast
+- [Retool](https://retool.com/) - Build internal tools, remarkably fast.
+
+## Contributing
+
+[Contributions of any kind are welcome, just follow the guidelines](contributing.md)!
 
 ## License
 
