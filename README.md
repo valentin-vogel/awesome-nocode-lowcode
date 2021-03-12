@@ -19,6 +19,8 @@ Nocode enables programmers and non-programmers to create application software th
 
 ## Automation and Workflows
 
+- [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
+
 ## Internal
 
 - [Retool](https://retool.com/) - Build internal tools, remarkably fast.
