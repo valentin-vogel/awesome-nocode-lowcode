@@ -19,6 +19,7 @@ Nocode enables programmers and non-programmers to create application software th
 
 ## Automation and Workflows
 
+- [Automate.io](https://automate.io/) - Connect your cloud applications and automate marketing, sales and business processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
 - [Zapier](https://zapier.com/) - Connect your apps and automate tasks.
 
