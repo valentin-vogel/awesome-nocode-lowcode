@@ -29,6 +29,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Typeform](https://www.typeform.com/) - Beautiful designed forms.
 - [JotForm](https://www.jotform.com/) - A simple online forms tool for any kind of business.
 - [Google Forms](https://forms.google.com/) - Free
+- [Microsoft Forms](https://forms.office.com/) - Easily create surveys, quizzes, and polls.
 
 ## Internal
 
