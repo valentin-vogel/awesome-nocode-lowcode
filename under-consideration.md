@@ -11,3 +11,4 @@ A list of **possible** awesome nocode and lowcode ressources which applies to on
 ## In alpha or beta version
 
 - [Tayfa](https://usetayfa.com/)
+- [Blocks UI](https://blocks-ui.com/)
