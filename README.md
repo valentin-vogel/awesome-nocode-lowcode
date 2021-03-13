@@ -9,7 +9,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Contents
 
-- [Enterprise and Leaders](#enterprise-and-leaders)
+- [Enterprise Platforms](#enterprise-platforms)
 - [Automation and Workflows](#automation-and-workflows)
 - [Forms](#forms)
 - [Internal](#internal)
@@ -18,7 +18,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Websites](#websites)
 - [Membership](#membership)
 
-## Enterprise and Leaders
+## Enterprise Platforms
 
 - [Outsystems](https://www.outsystems.com/)
 - [Service Now](https://www.servicenow.com/) - Build and run applications with advanced features like ai.
