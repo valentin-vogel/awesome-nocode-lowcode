@@ -20,7 +20,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Enterprise Platforms
 
-- [Outsystems](https://www.outsystems.com/)
+- [Outsystems](https://www.outsystems.com/) - Extraordinarily fast, visual, model-driven development meets AI, cloud, and DevOps.
 - [Service Now](https://www.servicenow.com/) - Build and run applications with advanced features like ai.
 
 ## Automation and Workflows
