@@ -57,6 +57,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [AppGyver](https://www.appgyver.com/) - Free nocode platform building apps for all form factors, including mobile, desktop, browser and TV.
 - [Microsoft Power Apps](https://powerapps.microsoft.com/) - Lowcode app platform.
 - [Siberian CMS](https://www.siberiancms.com/) - Open Source CMS for building mobile apps on Andoid and IOS.
+- [Structr](https://structr.com/) - Open Source lowcode platform for semantic apps based on graph technology.
 
 ## Landing Pages
 
