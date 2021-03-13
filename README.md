@@ -20,6 +20,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Enterprise Platforms
 
+- [Appian](https://www.appian.com/) - Full-Stack automation and data from everywhere. A lowcode platform, fast and simple.  
 - [Mendix](https://www.mendix.com/) - Lowcode application development platform leader in rapidly building, deploying, and operating enterprise-grade applications.
 - [Outsystems](https://www.outsystems.com/) - Extraordinarily fast, visual, model-driven development meets AI, cloud, and DevOps.
 - [Service Now](https://www.servicenow.com/) - Build and run applications with advanced features like ai.
