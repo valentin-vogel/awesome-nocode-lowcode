@@ -15,6 +15,7 @@ A list of **possible** awesome nocode and lowcode ressources which applies to on
 - [Prefect.io](https://www.prefect.io/) - Dataflow automation to build, run, and monitor millions of data workflows and pipelines.
 - [Saltcorn](https://saltcorn.com/) - Free and open source no-code application builder.
 - [smapOne](https://www.smapone.com/) - Create business apps in minutes.
+- [Tadabase](https://tadabase.io/) - Create custom database web apps in minutes.
 - [Tideflow.io](https://www.tideflow.io/) - Building extensible automation. Open Source.
 
 ## In alpha or beta version
