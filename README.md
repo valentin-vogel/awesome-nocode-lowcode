@@ -68,6 +68,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Membership
 
 - [Memberstack](https://www.memberstack.com/) - Beautiful user logins and payments for any website.
+- [Memberspace](https://www.memberspace.com/) - Turn any part of website into members-only with just a few clicks.
 
 ## Databases
 
