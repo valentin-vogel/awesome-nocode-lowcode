@@ -29,19 +29,19 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Automation and Workflows
 
 - [Automate.io](https://automate.io/) - Connect your cloud applications and automate marketing, sales and business processes.
+- [Microsoft Flow - Power Automate](https://flow.microsoft.com/) - Streamline repetitive tasks and paperless processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
 - [Node-RED](https://nodered.org/) - Open Source lowcode programming for event-driven applications.
-- [Zapier](https://zapier.com/) - Connect your apps and automate tasks.
 - [Pipedream](https://pipedream.com/) - Connect APIs, remarkably fast.
-- [Microsoft Flow - Power Automate](https://flow.microsoft.com/) - Streamline repetitive tasks and paperless processes.
+- [Zapier](https://zapier.com/) - Connect your apps and automate tasks.
 
 ## Forms
 
-- [involve.me](https://www.involve.me/) - Create lead generation quizzes, smart cancellation funnels, subscription payments and more.
-- [Typeform](https://www.typeform.com/) - Beautiful designed forms.
-- [JotForm](https://www.jotform.com/) - A simple online forms tool for any kind of business.
 - [Google Forms](https://forms.google.com/) - Free.
+- [involve.me](https://www.involve.me/) - Create lead generation quizzes, smart cancellation funnels, subscription payments and more.
+- [JotForm](https://www.jotform.com/) - A simple online forms tool for any kind of business.
 - [Microsoft Forms](https://forms.office.com/) - Easily create surveys, quizzes, and polls.
+- [Typeform](https://www.typeform.com/) - Beautiful designed forms.
 
 ## Internal
 
@@ -58,8 +58,8 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Landing Pages
 
 - [Instapage](https://instapage.com/) - Landing pages with more conversions, page speed optimization, and experimentation features.
-- [Umso](https://www.umso.com/) - The website builder for startups.
 - [Leadpages](https://www.leadpages.com/) - Landing pages and lead generation.
+- [Umso](https://www.umso.com/) - The website builder for startups.
 - [Unbounce](https://unbounce.com/) - Custom landing pages, high-converting campaigns with conversion intelligence and smart traffic.
 
 ## Websites
@@ -69,8 +69,8 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Membership
 
-- [Memberstack](https://www.memberstack.com/) - Beautiful user logins and payments for any website.
 - [Memberspace](https://www.memberspace.com/) - Turn any part of website into members-only with just a few clicks.
+- [Memberstack](https://www.memberstack.com/) - Beautiful user logins and payments for any website.
 
 ## Databases
 
