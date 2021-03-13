@@ -8,6 +8,8 @@ A list of **possible** awesome nocode and lowcode ressources which applies to on
 
 ## Awesome or not?
 
+- [Tideflow.io](https://www.tideflow.io/) - Building extensible automation. Open Source.
+
 ## In alpha or beta version
 
 - [Tayfa](https://usetayfa.com/)
