@@ -13,6 +13,7 @@ A list of **possible** awesome nocode and lowcode ressources which applies to on
 - [Tideflow.io](https://www.tideflow.io/) - Building extensible automation. Open Source.
 - [Saltcorn](https://saltcorn.com/) - Free and open source no-code application builder.
 - [CoCreate](https://cocreate.app/) - A low-code Javascript framework for building collaborative no-code platforms, apps and UI.
+- [Azkaban](https://azkaban.github.io/) - Batch workflow job scheduler created to run Hadoop jobs.
 
 ## In alpha or beta version
 
