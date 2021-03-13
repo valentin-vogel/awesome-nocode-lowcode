@@ -33,6 +33,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Microsoft Flow - Power Automate](https://flow.microsoft.com/) - Streamline repetitive tasks and paperless processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
 - [Node-RED](https://nodered.org/) - Open Source lowcode programming for event-driven applications.
+- [Parabola](https://parabola.io/) - Makes it easy to automate your manual, repetitive data tasks.
 - [Pipedream](https://pipedream.com/) - Connect APIs, remarkably fast.
 - [Zapier](https://zapier.com/) - Connect your apps and automate tasks.
 
