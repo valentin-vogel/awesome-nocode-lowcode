@@ -29,6 +29,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Automation and Workflows
 
 - [Automate.io](https://automate.io/) - Connect your cloud applications and automate marketing, sales and business processes.
+- [Camunda](https://camunda.com/) - Workflow and decision automation.
 - [IFTTT](https://ifttt.com/) - Connect all your things together.
 - [Microsoft Flow - Power Automate](https://flow.microsoft.com/) - Streamline repetitive tasks and paperless processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
