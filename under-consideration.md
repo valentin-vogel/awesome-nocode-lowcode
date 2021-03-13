@@ -12,6 +12,7 @@ A list of **possible** awesome nocode and lowcode ressources which applies to on
 - [Builder.io](https://www.builder.io/) - Drag and drop page building using your code components.
 - [CoCreate](https://cocreate.app/) - A low-code Javascript framework for building collaborative no-code platforms, apps and UI.
 - [Joget](https://www.joget.org/) - Open Source platform to easily build, run and maintain apps.
+- [Pagexl](https://pagexl.com/) - Page Builder for one-page websites.
 - [Prefect.io](https://www.prefect.io/) - Dataflow automation to build, run, and monitor millions of data workflows and pipelines.
 - [Saltcorn](https://saltcorn.com/) - Free and open source no-code application builder.
 - [smapOne](https://www.smapone.com/) - Create business apps in minutes.
