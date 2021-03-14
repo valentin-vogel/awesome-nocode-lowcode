@@ -67,6 +67,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Landing Pages
 
 - [Instapage](https://instapage.com/) - Landing pages with more conversions, page speed optimization, and experimentation features.
+- [Launchaco](https://www.launchaco.com/) - Small website builder for startups.
 - [Leadpages](https://www.leadpages.com/) - Landing pages and lead generation.
 - [Umso](https://www.umso.com/) - The website builder for startups.
 - [Unbounce](https://unbounce.com/) - Custom landing pages, high-converting campaigns with conversion intelligence and smart traffic.
