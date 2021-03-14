@@ -75,6 +75,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Websites
 
+- [Carrd](https://carrd.co/) - For personal one-page websites.
 - [Jimdo](https://www.jimdo.com/) - Start your business online, fast and easy.
 - [Webflow](https://webflow.com/) - Build professional, custom websites in a completely visual canvas with no code.
 - [Wix](https://wix.com/) - Build a professional website.
