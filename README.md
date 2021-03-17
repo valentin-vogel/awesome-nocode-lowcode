@@ -18,6 +18,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Websites](#websites)
 - [Membership](#membership)
 - [Databases](#databases)
+- [Chatbots](#chatbots)
 
 ## Enterprise Platforms
 
@@ -89,3 +90,6 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 - [Airtable](https://airtable.com/) - Create applications from a database like a spreadsheet.
 - [JotForm Tables](https://www.jotform.com/de/products/tables/) - Dynamic spreadsheet.
+
+## Chatbots
+
