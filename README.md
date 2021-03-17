@@ -93,3 +93,4 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Chatbots
 
+- [Landbot](https://landbot.io/) - Intuitive chatbot builder.
