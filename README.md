@@ -71,6 +71,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Lander](https://landerapp.com/) - Easy to use landing page builder.
 - [Launchaco](https://www.launchaco.com/) - Small website builder for startups.
 - [Leadpages](https://www.leadpages.com/) - Landing pages and lead generation.
+- [Shortstack](https://www.shortstack.com/) - Create unique landing pages, run social contests, send emails and analyze results.
 - [Umso](https://www.umso.com/) - The website builder for startups.
 - [Unbounce](https://unbounce.com/) - Custom landing pages, high-converting campaigns with conversion intelligence and smart traffic.
 - [Unicorn Platform](https://unicornplatform.com/) - Simple landing page builder for startups, mobile apps, and SaaS.
