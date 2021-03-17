@@ -69,10 +69,13 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Landing Pages
 
 - [Convertkit](https://convertkit.com/) - Landing pages and email marketing automation.
+- [GetResponse](https://getresponse.com/) - Landing pages, email marketing, marketing automation and conversion funnels.
 - [Instapage](https://instapage.com/) - Landing pages with more conversions, page speed optimization, and experimentation features.
 - [Lander](https://landerapp.com/) - Easy to use landing page builder.
+- [Landingi](https://landingi.com/) - Design, publish, connect, optimize, convert and sell with landing pages.
 - [Launchaco](https://www.launchaco.com/) - Small website builder for startups.
 - [Leadpages](https://www.leadpages.com/) - Landing pages and lead generation.
+- [Pagewiz](https://www.pagewiz.com/) - Landing pages, integrations, campaign management and A/B testing.
 - [Shortstack](https://www.shortstack.com/) - Create unique landing pages, run social contests, send emails and analyze results.
 - [Umso](https://www.umso.com/) - The website builder for startups.
 - [Unbounce](https://unbounce.com/) - Custom landing pages, high-converting campaigns with conversion intelligence and smart traffic.
