@@ -12,6 +12,7 @@ A list of **possible** awesome nocode and lowcode ressources which applies to on
 - [Builder.io](https://www.builder.io/) - Drag and drop page building using your code components.
 - [CoCreate](https://cocreate.app/) - A low-code Javascript framework for building collaborative no-code platforms, apps and UI.
 - [Datasiv](https://www.datasiv.io/) - Quickly build internal tools.
+- [Flazio](https://www.flazio.com/) - Website builder.
 - [Joget](https://www.joget.org/) - Open Source platform to easily build, run and maintain apps.
 - [Kickofflabs](https://kickofflabs.com/) - Landing pages.
 - [Pagexl](https://pagexl.com/) - Page Builder for one-page websites.
