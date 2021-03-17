@@ -67,6 +67,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Landing Pages
 
+- [Convertkit](https://convertkit.com/) - Landing pages and email marketing automation.
 - [Instapage](https://instapage.com/) - Landing pages with more conversions, page speed optimization, and experimentation features.
 - [Lander](https://landerapp.com/) - Easy to use landing page builder.
 - [Launchaco](https://www.launchaco.com/) - Small website builder for startups.
