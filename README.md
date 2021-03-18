@@ -92,6 +92,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Squarespace](https://squarespace.com/) - Professional website builder.
 - [Tilda](https://tilda.cc/) - Visual publishing made easy.
 - [Webflow](https://webflow.com/) - Build professional, custom websites in a completely visual canvas with no code.
+- [Weebly](https://www.weebly.com/) - Professional websites and e-commerce.
 - [Wix](https://wix.com/) - Build a professional website.
 
 ## Membership
