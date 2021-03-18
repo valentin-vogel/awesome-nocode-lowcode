@@ -86,6 +86,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 - [8b](https://8b.com/) - Very cheap website builder with code export.
 - [Carrd](https://carrd.co/) - For personal one-page websites.
+- [Duda](https://www.duda.co/) - Professional website builder for all kinds of business.
 - [Hubspot CMS](https://www.hubspot.de/products/cms) - Easy create marketing websites without coding.
 - [Jimdo](https://www.jimdo.com/) - Start your business online, fast and easy.
 - [Squarespace](https://squarespace.com/) - Professional website builder.
