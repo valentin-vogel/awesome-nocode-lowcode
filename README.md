@@ -111,6 +111,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Machine Learning
 
+- [BigML](https://bigml.com/) - ML made beautifully simple for everyone.
 - [Datarobot](https://www.datarobot.com/) - End-to-End enterprise AI platform for fast and easy deployment of accurate predictive models. Prepare, build, deploy, monitor, and maintain powerful AI applications at enterprise scale.
 - [Fritz.ai](https://www.fritz.ai/) - ML platform for iOS, Android, and SnapML in Lens Studio.
 - [Google Cloud AutoML](https://cloud.google.com/automl) - Training of high-quality custom machine learning models with minimal effort and machine learning expertise.
