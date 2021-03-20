@@ -116,6 +116,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Fritz.ai](https://www.fritz.ai/) - ML platform for iOS, Android, and SnapML in Lens Studio.
 - [Google Cloud AutoML](https://cloud.google.com/automl) - Training of high-quality custom machine learning models with minimal effort and machine learning expertise.
 - [Google Cloud ML Kit](https://developers.google.com/ml-kit) - Mobile software development kit that brings machine learning expertise to Android and iOS apps.
+- [MakeML](https://makeml.app/) - Create Object Detection and Segmentation ML models without Code.
 - [Microsoft Azure Automated ML](https://azure.microsoft.com/en-us/services/machine-learning/automatedml/) - Automatically build machine learning models with speed and scale.
 - [Obviously AI](https://www.obviously.ai/) - Machine learning tool that makes data science effortless by enabling anyone to instantly run accurate predictions as well as analytics on their data by asking questions in natural language.
 - [RunwayML](https://runwayml.com/) - Makes machine learning accessible to creative practitioners from a wide range of disciplines.
