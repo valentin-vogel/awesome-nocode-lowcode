@@ -40,6 +40,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Decisions](https://decisions.com/) - Automate Everything.
 - [FlowForma](https://www.flowforma.com/) - Empower business people to digitize processes in-house, with a digital process automation tool trusted by IT.
 - [IFTTT](https://ifttt.com/) - Connect all your things together.
+- [Integromat](https://www.integromat.com/) - Connect apps and automate workflows in a few clicks.
 - [Kintone](https://www.kintone.com/) - All-in-one workplace platform to build, share, and automate custom workflows and processes for data-driven results.
 - [Microsoft Flow - Power Automate](https://flow.microsoft.com/) - Streamline repetitive tasks and paperless processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
@@ -51,6 +52,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Process.st](https://www.process.st/) - Simple, free and powerful way to manage your team's recurring checklists and procedures.
 - [Tonkean](https://tonkean.com/) - A Enterprise Standard for Process Orchestration.
 - [Tray.io](https://tray.io/) - Integrate your entire stack with the leading general automation platform.
+- [Workato](https://www.workato.com/) - Workflow automation, AI, Bots and more.
 - [Zapier](https://zapier.com/) - Connect your apps and automate tasks.
 
 ## Forms
