@@ -114,10 +114,12 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Chatfuel](https://chatfuel.com/) - The leading no-code chatbot platform for Facebook, Instagram, and Messenger.
 - [Flow.ai](https://flow.ai/) - Intelligent Automation using bots.
 - [Flow XO](https://flowxo.com/) - Powerful automation product that allows you to quickly and simply build incredible chatbots that help you to communicate and engage with your customers across a wide range of different sites, applications and social media platforms.
+- [Giosg](https://www.giosg.com/) - Capture your most valuable leads and customers.
 - [Intercom](https://www.intercom.com/) - Live chat, product tours, apps and more - build relationships with your customers.
 - [Landbot](https://landbot.io/) - Intuitive chatbot builder.
 - [Opla.ai](https://opla.ai/) - Open Chatbot builder.
 - [Smooch](https://smooch.io/) - Lets you unify messages from every channel into a single conversation, and build interactive messaging experiences anywhere.
+- [Tars](https://hellotars.com/) - Optimize your conversion funnels, automate customer service interactions, and redefine customer experience.
 
 ## Machine Learning
 
