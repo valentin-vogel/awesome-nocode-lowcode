@@ -75,6 +75,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Betty Blocks](https://www.bettyblocks.com/) - Build Faster and Innovate Smarter with No-Code.
 - [DronaHQ](https://dronahq.com/) - Rapidly build and deploy cloud based apps like data collection apps, online forms, online database app, business process apps, automation apps, internal tools, custom business apps.
 - [FileMaker](https://www.claris.com/filemaker/) - An application development platform to build apps like a boss.
+- [Glide](https://www.glideapps.com/) - Build an app from a Google Sheet.
 - [Microsoft Power Apps](https://powerapps.microsoft.com/) - Lowcode app platform.
 - [Odoo](https://www.odoo.com/) - Open Source business management app builder.
 - [Oracle APEX](https://apex.oracle.com/) - Build enterprise apps 20x faster with 100x less code.
