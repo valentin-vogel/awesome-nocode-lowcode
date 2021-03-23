@@ -36,6 +36,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Decisions](https://decisions.com/) - Automate Everything.
 - [FlowForma](https://www.flowforma.com/) - Empower business people to digitize processes in-house, with a digital process automation tool trusted by IT.
 - [IFTTT](https://ifttt.com/) - Connect all your things together.
+- [Kintone](https://www.kintone.com/) - All-in-one workplace platform to build, share, and automate custom workflows and processes for data-driven results.
 - [Microsoft Flow - Power Automate](https://flow.microsoft.com/) - Streamline repetitive tasks and paperless processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
 - [Node-RED](https://nodered.org/) - Open Source lowcode programming for event-driven applications.
@@ -67,6 +68,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Apps
 
 - [AppGyver](https://www.appgyver.com/) - Free nocode platform building apps for all form factors, including mobile, desktop, browser and TV.
+- [Appsheet](https://www.appsheet.com/) - Mobile App builder.
 - [Betty Blocks](https://www.bettyblocks.com/) - Build Faster and Innovate Smarter with No-Code.
 - [Microsoft Power Apps](https://powerapps.microsoft.com/) - Lowcode app platform.
 - [Siberian CMS](https://www.siberiancms.com/) - Open Source CMS for building mobile apps on Andoid and IOS.
