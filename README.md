@@ -39,6 +39,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Parabola](https://parabola.io/) - Makes it easy to automate your manual, repetitive data tasks.
 - [Pipedream](https://pipedream.com/) - Connect APIs, remarkably fast.
 - [ProcessMaker](https://www.processmaker.com/) - Lowcode BPM and Digital Process Automation Platform.
+- [Tonkean](https://tonkean.com/) - A Enterprise Standard for Process Orchestration.
 - [Tray.io](https://tray.io/) - Integrate your entire stack with the leading general automation platform.
 - [Zapier](https://zapier.com/) - Connect your apps and automate tasks.
 
