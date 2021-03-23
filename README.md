@@ -106,7 +106,9 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Duda](https://www.duda.co/) - Professional website builder for all kinds of business.
 - [Hubspot CMS](https://www.hubspot.de/products/cms) - Easy create marketing websites without coding.
 - [Jimdo](https://www.jimdo.com/) - Start your business online, fast and easy.
+- [Shopify](https://www.shopify.com/) - E-commerce website builder.
 - [Squarespace](https://squarespace.com/) - Professional website builder.
+- [Strikingly](https://www.strikingly.com/) - Easy website builder. 
 - [Tilda](https://tilda.cc/) - Visual publishing made easy.
 - [Webflow](https://webflow.com/) - Build professional, custom websites in a completely visual canvas with no code.
 - [Weebly](https://www.weebly.com/) - Professional websites and e-commerce.
