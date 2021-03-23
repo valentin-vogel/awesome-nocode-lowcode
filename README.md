@@ -108,6 +108,9 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Chatbots
 
+- [Botsify](https://botsify.com/) - Fully Managed Chatbot Platform.
+- [Chatamo](https://chatamo.com/) - Chatbot builder to increase your sales, connect with your customers and better understand customers.
+- [Chatfuel](https://chatfuel.com/) - The leading no-code chatbot platform for Facebook, Instagram, and Messenger.
 - [Landbot](https://landbot.io/) - Intuitive chatbot builder.
 
 ## Machine Learning
