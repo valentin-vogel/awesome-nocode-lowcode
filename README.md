@@ -72,6 +72,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Apps
 
+- [Appery.io](https://appery.io/) - Lowcode app platform that makes creating hybrid mobile apps, web apps, and progressive web apps easy.
 - [AppGyver](https://www.appgyver.com/) - Free nocode platform building apps for all form factors, including mobile, desktop, browser and TV.
 - [Appsheet](https://www.appsheet.com/) - Mobile App builder.
 - [Appspotr](https://www.appspotr.com/) - Professional mobile apps, faster and with more control.
