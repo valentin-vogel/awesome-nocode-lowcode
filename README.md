@@ -20,6 +20,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Databases](#databases)
 - [Chatbots](#chatbots)
 - [Machine Learning](#machine-learning)
+- [More (Uncategorized)](#more-uncategorized)
 
 ## Enterprise Platforms
 
@@ -134,4 +135,8 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Obviously AI](https://www.obviously.ai/) - Machine learning tool that makes data science effortless by enabling anyone to instantly run accurate predictions as well as analytics on their data by asking questions in natural language.
 - [RunwayML](https://runwayml.com/) - Makes machine learning accessible to creative practitioners from a wide range of disciplines.
 - [Superannotate](https://superannotate.com/) - End-to-End platform to annotate, train and automate computer vision pipelines.
-- [Teachable Machine](https://teachablemachine.withgoogle.com/) - Web-based tool for training a computer to recognise images, sounds, and poses. 
+- [Teachable Machine](https://teachablemachine.withgoogle.com/) - Web-based tool for training a computer to recognise images, sounds, and poses.
+
+## More (Uncategorized)
+
+- [Actiondesk](https://www.actiondesk.io/) - Mixes the ease and flexibility of a spreadsheet with the power of a BI tool.
