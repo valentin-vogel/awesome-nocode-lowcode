@@ -109,12 +109,15 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Chatbots
 
 - [Botsify](https://botsify.com/) - Fully Managed Chatbot Platform.
+- [BotXO](https://www.botxo.ai/) - Powerful AI chatbot builder made easy for businesses.
 - [Chatamo](https://chatamo.com/) - Chatbot builder to increase your sales, connect with your customers and better understand customers.
 - [Chatfuel](https://chatfuel.com/) - The leading no-code chatbot platform for Facebook, Instagram, and Messenger.
 - [Flow.ai](https://flow.ai/) - Intelligent Automation using bots.
 - [Flow XO](https://flowxo.com/) - Powerful automation product that allows you to quickly and simply build incredible chatbots that help you to communicate and engage with your customers across a wide range of different sites, applications and social media platforms.
 - [Intercom](https://www.intercom.com/) - Live chat, product tours, apps and more - build relationships with your customers.
 - [Landbot](https://landbot.io/) - Intuitive chatbot builder.
+- [Opla.ai](https://opla.ai/) - Open Chatbot builder.
+- [Smooch](https://smooch.io/) - Lets you unify messages from every channel into a single conversation, and build interactive messaging experiences anywhere.
 
 ## Machine Learning
 
