@@ -76,7 +76,10 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [DronaHQ](https://dronahq.com/) - Rapidly build and deploy cloud based apps like data collection apps, online forms, online database app, business process apps, automation apps, internal tools, custom business apps.
 - [FileMaker](https://www.claris.com/filemaker/) - An application development platform to build apps like a boss.
 - [Microsoft Power Apps](https://powerapps.microsoft.com/) - Lowcode app platform.
+- [Odoo](https://www.odoo.com/) - Open Source business management app builder.
+- [Oracle APEX](https://apex.oracle.com/) - Build enterprise apps 20x faster with 100x less code.
 - [Siberian CMS](https://www.siberiancms.com/) - Open Source CMS for building mobile apps on Andoid and IOS.
+- [Skuid](https://www.skuid.com/) - Create Salesforce apps faster and with less custom code.
 - [Structr](https://structr.com/) - Open Source lowcode platform for semantic apps based on graph technology.
 
 ## Landing Pages
