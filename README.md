@@ -28,6 +28,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Mendix](https://www.mendix.com/) - Lowcode application development platform leader in rapidly building, deploying, and operating enterprise-grade applications.
 - [Nintex](https://www.nintex.de/) - Enterprise ready, easy-to-use, powerful & complete process platform.
 - [Outsystems](https://www.outsystems.com/) - Extraordinarily fast, visual, model-driven development meets AI, cloud, and DevOps.
+- [Quickbase](https://www.quickbase.com/) - Lowcode-Plattform for Citizen Development.
 - [Service Now](https://www.servicenow.com/) - Build and run applications with advanced features like ai.
 
 ## Automation and Workflows
