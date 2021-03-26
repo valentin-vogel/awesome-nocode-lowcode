@@ -87,6 +87,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Bubble](https://bubble.io/) - Build production-ready web apps.
 - [DronaHQ](https://dronahq.com/) - Rapidly build and deploy cloud based apps like data collection apps, online forms, online database app, business process apps, automation apps, internal tools, custom business apps.
 - [FileMaker](https://www.claris.com/filemaker/) - An application development platform to build apps like a boss.
+- [Fliplet](https://fliplet.com/) - App builder for mobile and web.
 - [Glide](https://www.glideapps.com/) - Build an app from a Google Sheet.
 - [Microsoft Power Apps](https://powerapps.microsoft.com/) - Lowcode app platform.
 - [Odoo](https://www.odoo.com/) - Open Source business management app builder.
