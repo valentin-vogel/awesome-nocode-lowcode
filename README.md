@@ -33,6 +33,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Outsystems](https://www.outsystems.com/) - Extraordinarily fast, visual, model-driven development meets AI, cloud, and DevOps.
 - [Quickbase](https://www.quickbase.com/) - Lowcode-Plattform for Citizen Development.
 - [Service Now](https://www.servicenow.com/) - Build and run applications with advanced features like ai.
+- [Thinkwise](https://www.thinkwisesoftware.com/) - Lowcode Platform for core systems.
 - [VisionX](https://visionx.sibvisions.com/) - Lowcode Development Platform.
 
 ## Automation and Workflows
