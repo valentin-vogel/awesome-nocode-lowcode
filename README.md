@@ -167,6 +167,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Machine Learning
 
+- [Accern](https://accern.com/) - Accelerate AI workflows for financial services with a Nocode AI platform.
 - [BigML](https://bigml.com/) - ML made beautifully simple for everyone.
 - [CreateML](https://developer.apple.com/machine-learning/create-ml/) - Experience an entirely new way of training machine learning models on your Mac.
 - [Datarobot](https://www.datarobot.com/) - End-to-End enterprise AI platform for fast and easy deployment of accurate predictive models. Prepare, build, deploy, monitor, and maintain powerful AI applications at enterprise scale.
