@@ -92,6 +92,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Oracle APEX](https://apex.oracle.com/) - Build enterprise apps 20x faster with 100x less code.
 - [Siberian CMS](https://www.siberiancms.com/) - Open Source CMS for building mobile apps on Andoid and IOS.
 - [Skuid](https://www.skuid.com/) - Create Salesforce apps faster and with less custom code.
+- [Stacker](https://www.stackerhq.com/) - Turn your spreadsheets into applications.
 - [Structr](https://structr.com/) - Open Source lowcode platform for semantic apps based on graph technology.
 - [Thunkable](https://thunkable.com/) - Mobile app builder.
 
