@@ -146,7 +146,9 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Databases
 
 - [Airtable](https://airtable.com/) - Create applications from a database like a spreadsheet.
+- [Baserow](https://baserow.io/) - Open source online database.
 - [JotForm Tables](https://www.jotform.com/de/products/tables/) - Dynamic spreadsheet.
+- [Rows](https://rows.com/) - The spreadsheet where teams work faster.
 
 ## Chatbots
 
