@@ -22,6 +22,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Chatbots](#chatbots)
 - [Machine Learning](#machine-learning)
 - [Games](#games)
+- [Scraper](#scraper)
 - [More (Uncategorized)](#more-uncategorized)
 
 ## Enterprise Platforms
@@ -174,6 +175,10 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Games
 
 - [Buildbox](https://www.buildbox.com/) - No-Code mobile game development.
+
+## Scraper
+
+- [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
 
 ## More (Uncategorized)
 
