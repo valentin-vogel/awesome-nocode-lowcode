@@ -81,6 +81,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Appery.io](https://appery.io/) - Lowcode app platform that makes creating hybrid mobile apps, web apps, and progressive web apps easy.
 - [AppGyver](https://www.appgyver.com/) - Free nocode platform building apps for all form factors, including mobile, desktop, browser and TV.
 - [Appsheet](https://www.appsheet.com/) - Mobile App builder.
+- [Appsmith](https://www.appsmith.com/) - Open source framework to build admin panels, CRUD apps and workflows.
 - [Appspotr](https://www.appspotr.com/) - Professional mobile apps, faster and with more control.
 - [Appypie AppMakr](https://www.appypie.com/app-builder/appmaker) - App builder to make your app without coding.
 - [Betty Blocks](https://www.bettyblocks.com/) - Build Faster and Innovate Smarter with No-Code.
