@@ -122,6 +122,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Duda](https://www.duda.co/) - Professional website builder for all kinds of business.
 - [Hubspot CMS](https://www.hubspot.de/products/cms) - Easy create marketing websites without coding.
 - [Jimdo](https://www.jimdo.com/) - Start your business online, fast and easy.
+- [Linkz.ai](https:/linkz.ai) - Immersive hyperlink previews to keep visitors on your website
 - [Quarkly](https://quarkly.io/) - Design tool for creating websites and web apps.
 - [Shopify](https://www.shopify.com/) - E-commerce website builder.
 - [Squarespace](https://squarespace.com/) - Professional website builder.
