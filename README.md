@@ -139,6 +139,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Dunked](https://dunked.com/) - Portfolio & showcase websites.
 - [Exposure](https://www.exposure.co/) - A website builder for your stories.
 - [Pixpa](https://www.pixpa.com/) - Portfolio websites for photographers and creators.
+- [Semplice](https://www.semplice.com/) - Where the designers you admire come to build their portfolio.
 
 ## Membership
 
