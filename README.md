@@ -73,6 +73,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [JetAdmin](https://www.jetadmin.io/) - Build apps for your teams without engineering effort.
 - [Ninox](https://ninox.com/) - Make your business process digital in the cloud.
 - [Retool](https://retool.com/) - Build internal tools, remarkably fast.
+- [Draxlr](https://draxlr.com/) - Get answers from you data, share with your team and customers.
 - [Trevor.io](https://trevor.io/) - Empowering your whole team to get answers from your database data.
 
 ## Apps
