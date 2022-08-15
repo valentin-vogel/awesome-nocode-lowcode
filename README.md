@@ -40,6 +40,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 - [Automate.io](https://automate.io/) - Connect your cloud applications and automate marketing, sales and business processes.
 - [Camunda](https://camunda.com/) - Workflow and decision automation.
+- [Cronit](https://cronit.app/) - Online recurring job scheduling system. 
 - [Decisions](https://decisions.com/) - Automate Everything.
 - [FlowForma](https://www.flowforma.com/) - Empower business people to digitize processes in-house, with a digital process automation tool trusted by IT.
 - [IFTTT](https://ifttt.com/) - Connect all your things together.
