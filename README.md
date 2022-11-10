@@ -73,6 +73,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [AWS Honeycode](https://www.honeycode.aws/) - Build apps for managing your team's work.
 - [Budibase](https://www.budibase.com/) - Open Source software to build internal tools on your own infrastructure in minutes.
 - [JetAdmin](https://www.jetadmin.io/) - Build apps for your teams without engineering effort.
+- [Linx](https://linx.software) - Development platform to build and host APIs, automations and integrations
 - [Ninox](https://ninox.com/) - Make your business process digital in the cloud.
 - [Retool](https://retool.com/) - Build internal tools, remarkably fast.
 - [Draxlr](https://draxlr.com/) - Get answers from you data, share with your team and customers.
