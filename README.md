@@ -104,6 +104,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Landing Pages
 
+- [EarlyBird](https://earlybird.im/) - Landing page builder to create, pitch, and validate early-stage business ideas.
 - [Convertkit](https://convertkit.com/) - Landing pages and email marketing automation.
 - [GetResponse](https://getresponse.com/) - Landing pages, email marketing, marketing automation and conversion funnels.
 - [Instapage](https://instapage.com/) - Landing pages with more conversions, page speed optimization, and experimentation features.
