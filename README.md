@@ -67,6 +67,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [JotForm](https://www.jotform.com/) - A simple online forms tool for any kind of business.
 - [Microsoft Forms](https://forms.office.com/) - Easily create surveys, quizzes, and polls.
 - [Typeform](https://www.typeform.com/) - Beautiful designed forms.
+- [FormNX](https://formnx.com) - A no-code platform to create forms Without Coding for Free. It provides a lot of [form templates](https://formnx.com/form-templates), drag-n-drop interface, Smart Conditional Logic, Spam Protection, Reporting & Charts, Automation, Password Protection, integrations & lot more.
 
 ## Internal
 
