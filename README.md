@@ -40,7 +40,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Automation and Workflows
 
 - [Automate.io](https://automate.io/) - Connect your cloud applications and automate marketing, sales and business processes.
-- [Cronit](https://cronit.app) - Online cron jobs scheduling 
+- [Cronit](https://cronit.app) - Online cron jobs scheduling.
 - [Camunda](https://camunda.com/) - Workflow and decision automation.
 - [Decisions](https://decisions.com/) - Automate Everything.
 - [FlowForma](https://www.flowforma.com/) - Empower business people to digitize processes in-house, with a digital process automation tool trusted by IT.
@@ -118,6 +118,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Unbounce](https://unbounce.com/) - Custom landing pages, high-converting campaigns with conversion intelligence and smart traffic.
 - [Unicorn Platform](https://unicornplatform.com/) - Simple landing page builder for startups, mobile apps, and SaaS.
 - [Unstack](https://www.unstack.com/) - Merketing websites with the super power of content, analytics, payments and integrations.
+- [EarlyBird](https://earlybird.im/) - Landing page builder to create, pitch, and validate early-stage business ideas.
 
 ## Websites
 
