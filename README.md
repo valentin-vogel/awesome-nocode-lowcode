@@ -104,7 +104,6 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Landing Pages
 
-- [EarlyBird](https://earlybird.im/) - Landing page builder to create, pitch, and validate early-stage business ideas.
 - [Convertkit](https://convertkit.com/) - Landing pages and email marketing automation.
 - [GetResponse](https://getresponse.com/) - Landing pages, email marketing, marketing automation and conversion funnels.
 - [Instapage](https://instapage.com/) - Landing pages with more conversions, page speed optimization, and experimentation features.
@@ -118,6 +117,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Unbounce](https://unbounce.com/) - Custom landing pages, high-converting campaigns with conversion intelligence and smart traffic.
 - [Unicorn Platform](https://unicornplatform.com/) - Simple landing page builder for startups, mobile apps, and SaaS.
 - [Unstack](https://www.unstack.com/) - Merketing websites with the super power of content, analytics, payments and integrations.
+- [EarlyBird](https://earlybird.im/) - Landing page builder to create, pitch, and validate early-stage business ideas.
 
 ## Websites
 
