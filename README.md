@@ -161,6 +161,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 ## Chatbots
 
+- [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python.
 - [Botsify](https://botsify.com/) - Fully Managed Chatbot Platform.
 - [BotXO](https://www.botxo.ai/) - Powerful AI chatbot builder made easy for businesses.
 - [Chatamo](https://chatamo.com/) - Chatbot builder to increase your sales, connect with your customers and better understand customers.
@@ -202,6 +203,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## More (Uncategorized)
 
 - [Actiondesk](https://www.actiondesk.io/) - Mixes the ease and flexibility of a spreadsheet with the power of a BI tool.
+- [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software.
 - [Smartsheet](https://www.smartsheet.com/) - Get more work done with workflow, formulars and automations.
 - [Voiceflow](https://www.voiceflow.com/) - Voiceflow helps prototype and launch conversational apps.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website.
