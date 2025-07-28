@@ -124,6 +124,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Websites
 
 - [8b](https://8b.com/) - Very cheap website builder with code export.
+- [Berrry](https://berrry.app/) - Transform Twitter posts and Reddit content into functional web applications using AI.
 - [Carrd](https://carrd.co/) - For personal one-page websites.
 - [Duda](https://www.duda.co/) - Professional website builder for all kinds of business.
 - [Hubspot CMS](https://www.hubspot.de/products/cms) - Easy create marketing websites without coding.
