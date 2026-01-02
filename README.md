@@ -203,5 +203,6 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 
 - [Actiondesk](https://www.actiondesk.io/) - Mixes the ease and flexibility of a spreadsheet with the power of a BI tool.
 - [Smartsheet](https://www.smartsheet.com/) - Get more work done with workflow, formulars and automations.
+- [Vedika](https://vedika.io) - REST API for Vedic astrology with AI chatbot, birth charts, and horoscopes. Simple integration for apps without building astrology logic from scratch.
 - [Voiceflow](https://www.voiceflow.com/) - Voiceflow helps prototype and launch conversational apps.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website.
