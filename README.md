@@ -57,6 +57,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [ProcessMaker](https://www.processmaker.com/) - Lowcode BPM and Digital Process Automation Platform.
 - [Process.st](https://www.process.st/) - Simple, free and powerful way to manage your team's recurring checklists and procedures.
 - [Tonkean](https://tonkean.com/) - A Enterprise Standard for Process Orchestration.
+- [Taskade](https://github.com/taskade/taskade) - AI-native workspace platform to build apps, deploy AI agents, and automate workflows from one prompt.
 - [Tray.io](https://tray.io/) - Integrate your entire stack with the leading general automation platform.
 - [Workato](https://www.workato.com/) - Workflow automation, AI, Bots and more.
 - [Zapier](https://zapier.com/) - Connect your apps and automate tasks.
