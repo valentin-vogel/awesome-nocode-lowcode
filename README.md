@@ -103,6 +103,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Siberian CMS](https://www.siberiancms.com/) - Open Source CMS for building mobile apps on Andoid and IOS.
 - [Skuid](https://www.skuid.com/) - Create Salesforce apps faster and with less custom code.
 - [Stacker](https://www.stackerhq.com/) - Turn your spreadsheets into applications.
+- [Suriya](https://suriya.ai/) - AI-powered app builder for Thai SMEs. Create loyalty apps, booking systems, and customer management tools in 5 minutes without coding.
 - [Structr](https://structr.com/) - Open Source lowcode platform for semantic apps based on graph technology.
 - [Thunkable](https://thunkable.com/) - Mobile app builder.
 
