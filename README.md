@@ -196,6 +196,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Games
 
 - [Buildbox](https://www.buildbox.com/) - No-Code mobile game development.
+- [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 
 ## Scraper
 
