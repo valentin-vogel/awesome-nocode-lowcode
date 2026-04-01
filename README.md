@@ -47,6 +47,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [FlowForma](https://www.flowforma.com/) - Empower business people to digitize processes in-house, with a digital process automation tool trusted by IT.
 - [IFTTT](https://ifttt.com/) - Connect all your things together.
 - [Integromat](https://www.integromat.com/) - Connect apps and automate workflows in a few clicks.
+- [KAI-Flow](https://www.kaiflow.io/) - KAI Flow is a Open Source low-code platform developed for designing and scaling complex AI workflows. 
 - [Kintone](https://www.kintone.com/) - All-in-one workplace platform to build, share, and automate custom workflows and processes for data-driven results.
 - [Microsoft Flow - Power Automate](https://flow.microsoft.com/) - Streamline repetitive tasks and paperless processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
