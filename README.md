@@ -80,6 +80,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Draxlr](https://draxlr.com/) - Get answers from you data, share with your team and customers.
 - [Trevor.io](https://trevor.io/) - Empowering your whole team to get answers from your database data.
 - [ILLA Cloud](https://www.illacloud.com/) - Accelerate your internal tools development.
+- [Tooljet](https://tooljet.com/) - The enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents.
 - [UI Bakery](https://uibakery.io) - Internal tools and customer portals in minutes.
 
 ## Apps
