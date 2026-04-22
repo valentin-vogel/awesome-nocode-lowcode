@@ -99,6 +99,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [FileMaker](https://www.claris.com/filemaker/) - An application development platform to build apps like a boss.
 - [Fliplet](https://fliplet.com/) - App builder for mobile and web.
 - [Glide](https://www.glideapps.com/) - Build an app from a Google Sheet.
+- [Joget](https://www.joget.org/) - Open Source platform to easily build, run and maintain apps.
 - [Microsoft Power Apps](https://powerapps.microsoft.com/) - Lowcode app platform.
 - [Odoo](https://www.odoo.com/) - Open Source business management app builder.
 - [Oracle APEX](https://apex.oracle.com/) - Build enterprise apps 20x faster with 100x less code.
