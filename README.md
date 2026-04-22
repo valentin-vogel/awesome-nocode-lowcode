@@ -5,8 +5,6 @@
 
 Nocode enables programmers and non-programmers to create application software through graphical user interfaces instead of traditional code programming. Lowcode is a very closely related topic to allow strong customization.
 
-Not sure, if awesome or not? [Add to under consideration list](https://github.com/valentin-vogel/awesome-nocode-lowcode/blob/main/under-consideration.md).
-
 ## Contents
 
 - [Enterprise Platforms](#enterprise-platforms)
