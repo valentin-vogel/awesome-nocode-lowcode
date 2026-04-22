@@ -49,7 +49,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Microsoft Flow - Power Automate](https://flow.microsoft.com/) - Streamline repetitive tasks and paperless processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
 - [Node-RED](https://nodered.org/) - Open Source lowcode programming for event-driven applications.
-- [Parabola](https://parabola.io/) - Makes it easy to automate your manual, repetitive data tasks.
+- [Parabola](https://parabola.io/) - Workflow automation built for ops & finance teams.
 - [Prefect.io](https://www.prefect.io/) - Dataflow automation to build, run, and monitor millions of data workflows and pipelines.
 - [Pipedream](https://pipedream.com/) - Connect APIs, remarkably fast.
 - [Pipefy](https://www.pipefy.com/) - Design and automate business workflows in minutes.
