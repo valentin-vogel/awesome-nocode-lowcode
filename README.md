@@ -52,6 +52,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
 - [Node-RED](https://nodered.org/) - Open Source lowcode programming for event-driven applications.
 - [Parabola](https://parabola.io/) - Makes it easy to automate your manual, repetitive data tasks.
+- [Prefect.io](https://www.prefect.io/) - Dataflow automation to build, run, and monitor millions of data workflows and pipelines.
 - [Pipedream](https://pipedream.com/) - Connect APIs, remarkably fast.
 - [Pipefy](https://www.pipefy.com/) - Design and automate business workflows in minutes.
 - [ProcessMaker](https://www.processmaker.com/) - Lowcode BPM and Digital Process Automation Platform.
