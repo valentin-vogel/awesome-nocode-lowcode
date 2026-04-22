@@ -43,6 +43,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Camunda](https://camunda.com/) - Workflow and decision automation.
 - [Decisions](https://decisions.com/) - Automate Everything.
 - [FlowForma](https://www.flowforma.com/) - Empower business people to digitize processes in-house, with a digital process automation tool trusted by IT.
+- [Flowise](https://flowiseai.com/) - Build AI agents visually, an open source agentic systems development platform.
 - [IFTTT](https://ifttt.com/) - Connect all your things together.
 - [Integromat](https://www.integromat.com/) - Connect apps and automate workflows in a few clicks.
 - [Kintone](https://www.kintone.com/) - All-in-one workplace platform to build, share, and automate custom workflows and processes for data-driven results.
