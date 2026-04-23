@@ -210,6 +210,7 @@ Nocode enables programmers and non-programmers to create application software th
 ## Games
 
 - [Buildbox](https://www.buildbox.com/) - No-Code mobile game development.
+- [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 
 ## Scraper
 
