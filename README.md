@@ -8,6 +8,7 @@ Nocode enables programmers and non-programmers to create application software th
 ## Contents
 
 - [Enterprise Platforms](#enterprise-platforms)
+- [AI Platforms](#ai-platforms)
 - [Automation and Workflows](#automation-and-workflows)
 - [Forms](#forms)
 - [Internal](#internal)
@@ -35,7 +36,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Thinkwise](https://www.thinkwisesoftware.com/) - Lowcode Platform for core systems.
 - [VisionX](https://visionx.sibvisions.com/) - Lowcode Development Platform.
 
-## AI platforms
+## AI Platforms
 
 - [Botpress](https://botpress.com/) - An all-in-one platform for building AI agents powered by the latest LLMs.
 
