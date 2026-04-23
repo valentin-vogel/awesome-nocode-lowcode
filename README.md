@@ -66,6 +66,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Tray.io](https://tray.io/) - Integrate your entire stack with the leading general automation platform.
 - [Workato](https://www.workato.com/) - Workflow automation, AI, Bots and more.
 - [Zapier](https://zapier.com/) - Connect your apps and automate tasks.
+- [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
 
 ## Forms
 
