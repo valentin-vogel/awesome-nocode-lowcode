@@ -26,12 +26,13 @@ Nocode enables programmers and non-programmers to create application software th
 
 ## Enterprise Platforms
 
-- [Appian](https://www.appian.com/) - Full-Stack automation and data from everywhere. A lowcode platform, fast and simple.  
+- [Appian](https://www.appian.com/) - Full-Stack automation and data from everywhere. A lowcode platform, fast and simple.
 - [Bryter](https://bryter.com) - The No-Code Enterprise Platform.
 - [Mendix](https://www.mendix.com/) - Lowcode application development platform leader in rapidly building, deploying, and operating enterprise-grade applications.
 - [Nintex](https://www.nintex.de/) - Enterprise ready, easy-to-use, powerful & complete process platform.
 - [Outsystems](https://www.outsystems.com/) - Extraordinarily fast, visual, model-driven development meets AI, cloud, and DevOps.
 - [Quickbase](https://www.quickbase.com/) - Lowcode-Plattform for Citizen Development.
+- [Retool](https://retool.com/) - Build internal tools, remarkably fast.
 - [Service Now](https://www.servicenow.com/) - Build and run applications with advanced features like ai.
 - [Thinkwise](https://www.thinkwisesoftware.com/) - Lowcode Platform for core systems.
 - [VisionX](https://visionx.sibvisions.com/) - Lowcode Development Platform.
@@ -82,7 +83,6 @@ Nocode enables programmers and non-programmers to create application software th
 - [Budibase](https://www.budibase.com/) - Open Source software to build internal tools on your own infrastructure in minutes.
 - [JetAdmin](https://www.jetadmin.io/) - Build apps for your teams without engineering effort.
 - [Ninox](https://ninox.com/) - Make your business process digital in the cloud.
-- [Retool](https://retool.com/) - Build internal tools, remarkably fast.
 - [Draxlr](https://draxlr.com/) - Get answers from you data, share with your team and customers.
 - [Trevor.io](https://trevor.io/) - Empowering your whole team to get answers from your database data.
 - [ILLA Cloud](https://www.illacloud.com/) - Accelerate your internal tools development.
@@ -147,7 +147,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Quarkly](https://quarkly.io/) - Design tool for creating websites and web apps.
 - [Shopify](https://www.shopify.com/) - E-commerce website builder.
 - [Squarespace](https://squarespace.com/) - Professional website builder.
-- [Strikingly](https://www.strikingly.com/) - Easy website builder. 
+- [Strikingly](https://www.strikingly.com/) - Easy website builder.
 - [Tilda](https://tilda.cc/) - Visual publishing made easy.
 - [Webflow](https://webflow.com/) - Build professional, custom websites in a completely visual canvas with no code.
 - [Weebly](https://www.weebly.com/) - Professional websites and e-commerce.
