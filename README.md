@@ -11,7 +11,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [AI Platforms](#ai-platforms)
 - [Automation and Workflows](#automation-and-workflows)
 - [Forms](#forms)
-- [Apps & Internal Tools](#apps-internal-tools)
+- [Apps & Internal Tools](#apps--internal-tools)
 - [Landing Pages](#landing-pages)
 - [Websites](#websites)
 - [Portfolios](#portfolios)
