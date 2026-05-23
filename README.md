@@ -11,8 +11,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [AI Platforms](#ai-platforms)
 - [Automation and Workflows](#automation-and-workflows)
 - [Forms](#forms)
-- [Internal](#internal)
-- [Apps](#apps)
+- [Apps & Internal Tools](#apps-internal-tools)
 - [Landing Pages](#landing-pages)
 - [Websites](#websites)
 - [Portfolios](#portfolios)
@@ -43,18 +42,16 @@ Nocode enables programmers and non-programmers to create application software th
 
 ## Automation and Workflows
 
-- [Automate.io](https://automate.io/) - Connect your cloud applications and automate marketing, sales and business processes.
 - [Boltic](https://www.boltic.io/) - AI Workflow Automation, MCP Servers and AI Agents.
-- [Cronit](https://cronit.app) - Online cron jobs scheduling.
 - [Camunda](https://camunda.com/) - Workflow and decision automation.
 - [Decisions](https://decisions.com/) - Automate Everything.
 - [FlowForma](https://www.flowforma.com/) - Empower business people to digitize processes in-house, with a digital process automation tool trusted by IT.
 - [Flowise](https://flowiseai.com/) - Build AI agents visually, an open source agentic systems development platform.
 - [IFTTT](https://ifttt.com/) - Connect all your things together.
-- [Integromat](https://www.integromat.com/) - Connect apps and automate workflows in a few clicks.
 - [Iotellect](https://iotellect.com) - Low-code IoT platform for device integration, data collection, and real-time dashboards. Supports MQTT, OPC UA, Modbus, and 50+ industrial protocols.
 - [Kintone](https://www.kintone.com/) - All-in-one workplace platform to build, share, and automate custom workflows and processes for data-driven results.
-- [Microsoft Flow - Power Automate](https://flow.microsoft.com/) - Streamline repetitive tasks and paperless processes.
+- [Make](https://www.make.com/) - Connect apps and automate workflows in a few clicks with AI.
+- [Microsoft Power Automate](https://www.microsoft.com/de-de/power-platform/products/power-automate) - Streamline repetitive tasks and paperless processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
 - [Node-RED](https://nodered.org/) - Open Source lowcode programming for event-driven applications.
 - [Parabola](https://parabola.io/) - Workflow automation built for ops & finance teams.
@@ -64,7 +61,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [ProcessMaker](https://www.processmaker.com/) - Lowcode BPM and Digital Process Automation Platform.
 - [Process.st](https://www.process.st/) - Simple, free and powerful way to manage your team's recurring checklists and procedures.
 - [Tonkean](https://tonkean.com/) - A Enterprise Standard for Process Orchestration.
-- [Taskade](https://github.com/taskade/taskade) - AI-native workspace platform to build apps, deploy AI agents, and automate workflows from one prompt.
+- [Taskade](https://www.taskade.com/) - AI-native workspace platform to build apps, deploy AI agents, and automate workflows from one prompt.
 - [Tray.io](https://tray.io/) - Integrate your entire stack with the leading general automation platform.
 - [Workato](https://www.workato.com/) - Workflow automation, AI, Bots and more.
 - [Zapier](https://zapier.com/) - Connect your apps and automate tasks.
@@ -77,46 +74,41 @@ Nocode enables programmers and non-programmers to create application software th
 - [Microsoft Forms](https://forms.office.com/) - Easily create surveys, quizzes, and polls.
 - [Typeform](https://www.typeform.com/) - Beautiful designed forms.
 
-## Internal
-
-- [AWS Honeycode](https://www.honeycode.aws/) - Build apps for managing your team's work.
-- [Budibase](https://www.budibase.com/) - Open Source software to build internal tools on your own infrastructure in minutes.
-- [JetAdmin](https://www.jetadmin.io/) - Build apps for your teams without engineering effort.
-- [Ninox](https://ninox.com/) - Make your business process digital in the cloud.
-- [Draxlr](https://draxlr.com/) - Get answers from you data, share with your team and customers.
-- [Trevor.io](https://trevor.io/) - Empowering your whole team to get answers from your database data.
-- [ILLA Cloud](https://www.illacloud.com/) - Accelerate your internal tools development.
-- [Tooljet](https://tooljet.com/) - The enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents.
-- [UI Bakery](https://uibakery.io) - Internal tools and customer portals in minutes.
-
-## Apps
+## Apps & Internal Tools
 
 - [Adalo](https://www.adalo.com/) - Building real apps. Fast.
 - [Appery.io](https://appery.io/) - Lowcode app platform that makes creating hybrid mobile apps, web apps, and progressive web apps easy.
-- [AppGyver](https://www.appgyver.com/) - Free nocode platform building apps for all form factors, including mobile, desktop, browser and TV.
+- [AppGyver - SAP Apps Builder](https://www.sap.com/products/technology-platform/low-code-app-builder.html) - Platform building apps for all form factors, including mobile, desktop, browser and TV.
 - [Appsheet](https://www.appsheet.com/) - Mobile App builder.
 - [Appsmith](https://www.appsmith.com/) - Open source framework to build admin panels, CRUD apps and workflows.
 - [Appspotr](https://www.appspotr.com/) - Professional mobile apps, faster and with more control.
 - [Appypie AppMakr](https://www.appypie.com/app-builder/appmaker) - App builder to make your app without coding.
 - [Betty Blocks](https://www.bettyblocks.com/) - Build Faster and Innovate Smarter with No-Code.
 - [Bubble](https://bubble.io/) - Build production-ready web apps.
+- [Budibase](https://www.budibase.com/) - Open Source software to build internal tools on your own infrastructure in minutes.
 - [Builder.io](https://www.builder.io/) - Drag and drop page building using your code components.
 - [Draftbit](https://draftbit.com/) - Create, customize, and launch mobile apps visually.
+- [Draxlr](https://draxlr.com/) - Get answers from you data, share with your team and customers.
 - [DronaHQ](https://dronahq.com/) - Rapidly build and deploy cloud based apps like data collection apps, online forms, online database app, business process apps, automation apps, internal tools, custom business apps.
-- [FileMaker](https://www.claris.com/filemaker/) - An application development platform to build apps like a boss.
 - [Fliplet](https://fliplet.com/) - App builder for mobile and web.
 - [Glide](https://www.glideapps.com/) - Build an app from a Google Sheet.
+- [ILLA Cloud](https://github.com/illacloud/illa-builder) - Accelerate your internal tools development.
+- [JetAdmin](https://www.jetadmin.io/) - Build apps for your teams without engineering effort.
 - [Joget](https://www.joget.org/) - Open Source platform to easily build, run and maintain apps.
 - [Microsoft Power Apps](https://powerapps.microsoft.com/) - Lowcode app platform.
+- [Ninox](https://ninox.com/) - Make your business process digital in the cloud.
 - [Odoo](https://www.odoo.com/) - Open Source business management app builder.
 - [Oracle APEX](https://apex.oracle.com/) - Build enterprise apps 20x faster with 100x less code.
 - [Pory.io](https://pory.io/) - Build custom portals powered by Airtable data.
 - [Siberian CMS](https://www.siberiancms.com/) - Open Source CMS for building mobile apps on Andoid and IOS.
 - [Skuid](https://www.skuid.com/) - Create Salesforce apps faster and with less custom code.
-- [Stacker](https://www.stackerhq.com/) - Turn your spreadsheets into applications.
+- [Stacker](https://stacker.ai/) - Turn your spreadsheets into applications.
 - [Structr](https://structr.com/) - Open Source lowcode platform for semantic apps based on graph technology.
 - [Tadabase](https://tadabase.io/) - Create custom database web apps in minutes.
 - [Thunkable](https://thunkable.com/) - Mobile app builder.
+- [Tooljet](https://tooljet.com/) - The enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents.
+- [Trevor.io](https://trevor.io/) - Empowering your whole team to get answers from your database data.
+- [UI Bakery](https://uibakery.io) - Internal tools and customer portals in minutes.
 
 ## Landing Pages
 
@@ -175,6 +167,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Baserow](https://baserow.io/) - Open source online database.
 - [JotForm Tables](https://www.jotform.com/de/products/tables/) - Dynamic spreadsheet.
 - [Rows](https://rows.com/) - The spreadsheet where teams work faster.
+- [Smartsheet](https://www.smartsheet.com/) - Get more work done with workflow, formulars and automations.
 - [Teable](https://teable.ai/) - The next gen Airtable alternative with no-code postgres.
 
 ## Chatbots
@@ -219,7 +212,5 @@ Nocode enables programmers and non-programmers to create application software th
 
 ## More (Uncategorized)
 
-- [Actiondesk](https://www.actiondesk.io/) - Mixes the ease and flexibility of a spreadsheet with the power of a BI tool.
-- [Smartsheet](https://www.smartsheet.com/) - Get more work done with workflow, formulars and automations.
 - [Voiceflow](https://www.voiceflow.com/) - Prototype and launch conversational apps.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website.
