@@ -51,6 +51,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Flowise](https://flowiseai.com/) - Build AI agents visually, an open source agentic systems development platform.
 - [IFTTT](https://ifttt.com/) - Connect all your things together.
 - [Integromat](https://www.integromat.com/) - Connect apps and automate workflows in a few clicks.
+- [Iotellect](https://iotellect.com) - Low-code IoT platform for device integration, data collection, and real-time dashboards. Supports MQTT, OPC UA, Modbus, and 50+ industrial protocols.
 - [Kintone](https://www.kintone.com/) - All-in-one workplace platform to build, share, and automate custom workflows and processes for data-driven results.
 - [Microsoft Flow - Power Automate](https://flow.microsoft.com/) - Streamline repetitive tasks and paperless processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
