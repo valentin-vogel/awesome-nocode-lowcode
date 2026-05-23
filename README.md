@@ -39,6 +39,7 @@ Nocode enables programmers and non-programmers to create application software th
 ## AI Platforms
 
 - [Botpress](https://botpress.com/) - An all-in-one platform for building AI agents powered by the latest LLMs.
+- [Dify](https://dify.ai/) - AI platform for agentic workflows, RAG pipelines, integrations, and observability.
 
 ## Automation and Workflows
 
