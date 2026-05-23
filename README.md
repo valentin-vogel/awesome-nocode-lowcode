@@ -126,6 +126,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Landingi](https://landingi.com/) - Design, publish, connect, optimize, convert and sell with landing pages.
 - [Launchaco](https://www.launchaco.com/) - Small website builder for startups.
 - [Leadpages](https://www.leadpages.com/) - Landing pages and lead generation.
+- [PageStrike](https://pagestrike.com) - AI-generated landing pages in 2 minutes with native cash-on-delivery, 0% commission, and 10+ languages including Arabic RTL.
 - [Pagewiz](https://www.pagewiz.com/) - Landing pages, integrations, campaign management and A/B testing.
 - [Shortstack](https://www.shortstack.com/) - Create unique landing pages, run social contests, send emails and analyze results.
 - [Umso](https://www.umso.com/) - The website builder for startups.
