@@ -115,12 +115,13 @@ Nocode enables programmers and non-programmers to create application software th
 
 ## Landing Pages
 
-- [Kit](https://kit.com/) - Landing pages and email marketing automation.
+- [EarlyBird](https://earlybird.im/) - Landing page builder to create, pitch, and validate early-stage business ideas.
+- [ElasticPath](https://www.elasticpath.com/) - Marketing websites with the super power of content, analytics, payments and integrations.
 - [GetResponse](https://getresponse.com/) - Landing pages, email marketing, marketing automation and conversion funnels.
 - [Instapage](https://instapage.com/) - Landing pages with more conversions, page speed optimization, and experimentation features.
-- [Lander](https://landerapp.com/) - Easy to use landing page builder.
+- [Kit](https://kit.com/) - Landing pages and email marketing automation.
+- [Lander](https://landerlab.io/) - Easy to use landing page builder.
 - [Landingi](https://landingi.com/) - Design, publish, connect, optimize, convert and sell with landing pages.
-- [Launchaco](https://www.launchaco.com/) - Small website builder for startups.
 - [Leadpages](https://www.leadpages.com/) - Landing pages and lead generation.
 - [PageStrike](https://pagestrike.com) - AI-generated landing pages in 2 minutes with native cash-on-delivery, 0% commission, and 10+ languages including Arabic RTL.
 - [Pagewiz](https://www.pagewiz.com/) - Landing pages, integrations, campaign management and A/B testing.
@@ -128,8 +129,6 @@ Nocode enables programmers and non-programmers to create application software th
 - [Umso](https://www.umso.com/) - The website builder for startups.
 - [Unbounce](https://unbounce.com/) - Custom landing pages, high-converting campaigns with conversion intelligence and smart traffic.
 - [Unicorn Platform](https://unicornplatform.com/) - Simple landing page builder for startups, mobile apps, and SaaS.
-- [Unstack](https://www.unstack.com/) - Merketing websites with the super power of content, analytics, payments and integrations.
-- [EarlyBird](https://earlybird.im/) - Landing page builder to create, pitch, and validate early-stage business ideas.
 
 ## Websites
 
