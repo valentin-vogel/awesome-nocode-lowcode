@@ -115,7 +115,7 @@ Nocode enables programmers and non-programmers to create application software th
 
 ## Landing Pages
 
-- [Convertkit](https://convertkit.com/) - Landing pages and email marketing automation.
+- [Kit](https://kit.com/) - Landing pages and email marketing automation.
 - [GetResponse](https://getresponse.com/) - Landing pages, email marketing, marketing automation and conversion funnels.
 - [Instapage](https://instapage.com/) - Landing pages with more conversions, page speed optimization, and experimentation features.
 - [Lander](https://landerapp.com/) - Easy to use landing page builder.
