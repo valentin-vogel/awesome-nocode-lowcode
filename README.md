@@ -103,6 +103,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Odoo](https://www.odoo.com/) - Open Source business management app builder.
 - [Oracle APEX](https://apex.oracle.com/) - Build enterprise apps 20x faster with 100x less code.
 - [Pory.io](https://pory.io/) - Build custom portals powered by Airtable data.
+- [RapidNative](https://rapidnative.com/) - AI-native mobile app builder that turns ideas, sketches, or screenshots into working React Native and Expo apps with production-ready code.
 - [Siberian CMS](https://www.siberiancms.com/) - Open Source CMS for building mobile apps on Andoid and IOS.
 - [Skuid](https://www.skuid.com/) - Create Salesforce apps faster and with less custom code.
 - [Stacker](https://stacker.ai/) - Turn your spreadsheets into applications.
