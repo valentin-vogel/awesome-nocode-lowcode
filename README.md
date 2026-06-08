@@ -29,6 +29,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Bryter](https://bryter.com) - The No-Code Enterprise Platform.
 - [Mendix](https://www.mendix.com/) - Lowcode application development platform leader in rapidly building, deploying, and operating enterprise-grade applications.
 - [Nintex](https://www.nintex.de/) - Enterprise ready, easy-to-use, powerful & complete process platform.
+- [Oinone](https://github.com/oinone/oinone-pamirs) - AI-native, 100% metadata/model-driven low-code framework where AI and developers share one metadata model. Open source, self-hostable, built for complex enterprise systems.
 - [Outsystems](https://www.outsystems.com/) - Extraordinarily fast, visual, model-driven development meets AI, cloud, and DevOps.
 - [Quickbase](https://www.quickbase.com/) - Lowcode-Plattform for Citizen Development.
 - [Retool](https://retool.com/) - Build internal tools, remarkably fast.
