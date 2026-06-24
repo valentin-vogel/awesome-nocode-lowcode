@@ -41,6 +41,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Arize](https://arize.com/) - AI engineering platform to develop, monitor, troubleshoot, and improve machine learning models.
 - [Botpress](https://botpress.com/) - An all-in-one platform for building AI agents powered by the latest LLMs.
 - [Dify](https://dify.ai/) - AI platform for agentic workflows, RAG pipelines, integrations, and observability.
+- [Future AGI](https://futureagi.com/) - Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents.
 
 ## Automation and Workflows
 
