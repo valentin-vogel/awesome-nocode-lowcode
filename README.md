@@ -79,6 +79,7 @@ Nocode enables programmers and non-programmers to create application software th
 ## Apps & Internal Tools
 
 - [Adalo](https://www.adalo.com/) - Building real apps. Fast.
+- [AppEasy](https://appeasy.studio) - Launch a branded PWA app for content creators in 5 minutes, with vertical templates, offline access, push notifications and 0% B2C fee.
 - [Appery.io](https://appery.io/) - Lowcode app platform that makes creating hybrid mobile apps, web apps, and progressive web apps easy.
 - [AppGyver - SAP Apps Builder](https://www.sap.com/products/technology-platform/low-code-app-builder.html) - Platform building apps for all form factors, including mobile, desktop, browser and TV.
 - [Appsheet](https://www.appsheet.com/) - Mobile App builder.
