@@ -112,6 +112,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Tooljet](https://tooljet.com/) - The enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents.
 - [Trevor.io](https://trevor.io/) - Empowering your whole team to get answers from your database data.
 - [UI Bakery](https://uibakery.io) - Internal tools and customer portals in minutes.
+- [Widgets for Notion](https://widgetsfornotion.com/) - No-code widget catalog (clocks, calendars, weather, timers) to embed into Notion pages, plus an AI builder for custom ones.
 
 ## Landing Pages
 
