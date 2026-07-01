@@ -183,6 +183,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Giosg](https://www.giosg.com/) - Capture your most valuable leads and customers.
 - [Intercom](https://www.intercom.com/) - Live chat, product tours, apps and more - build relationships with your customers.
 - [Landbot](https://landbot.io/) - Intuitive chatbot builder.
+- [Knocket](https://trtc.io/solutions/knocket) - Free-forever live chat widget and contact page you add with one line of code. No ads, no seat limits.
 - [Opla.ai](https://opla.ai/) - Open Chatbot builder.
 - [Smooch](https://smooch.io/) - Lets you unify messages from every channel into a single conversation, and build interactive messaging experiences anywhere.
 - [Tars](https://hellotars.com/) - Optimize your conversion funnels, automate customer service interactions, and redefine customer experience.
