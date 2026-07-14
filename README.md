@@ -112,6 +112,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Tooljet](https://tooljet.com/) - The enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents.
 - [Trevor.io](https://trevor.io/) - Empowering your whole team to get answers from your database data.
 - [UI Bakery](https://uibakery.io) - Internal tools and customer portals in minutes.
+- [VibeKit.bot](https://vibekit.bot) - Describe an app in chat and a persistent AI agent builds it, hosts it at its own domain, and keeps improving it with every message. Works from your phone (iOS) or the web; bring-your-own-key or free tier.
 
 ## Landing Pages
 
