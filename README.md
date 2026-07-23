@@ -81,6 +81,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Adalo](https://www.adalo.com/) - Building real apps. Fast.
 - [Appery.io](https://appery.io/) - Lowcode app platform that makes creating hybrid mobile apps, web apps, and progressive web apps easy.
 - [AppGyver - SAP Apps Builder](https://www.sap.com/products/technology-platform/low-code-app-builder.html) - Platform building apps for all form factors, including mobile, desktop, browser and TV.
+- [Apps Father](https://apps-father.com/) - AI builder to create, publish, and update Telegram Mini Apps from a plain-text description, with built-in Telegram Stars and TON payments.
 - [Appsheet](https://www.appsheet.com/) - Mobile App builder.
 - [Appsmith](https://www.appsmith.com/) - Open source framework to build admin panels, CRUD apps and workflows.
 - [Appspotr](https://www.appspotr.com/) - Professional mobile apps, faster and with more control.
