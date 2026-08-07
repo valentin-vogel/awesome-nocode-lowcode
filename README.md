@@ -133,6 +133,7 @@ Nocode enables programmers and non-programmers to create application software th
 ## Websites
 
 - [8b](https://8b.com/) - Very cheap website builder with code export.
+- [Cactal](https://cactal.ai/) - The website platform for AI agents.
 - [Carrd](https://carrd.co/) - For personal one-page websites.
 - [Duda](https://www.duda.co/) - Professional website builder for all kinds of business.
 - [Framer](https://www.framer.com/) - The site builder trusted by leading Fortune 500 companies.
