@@ -1,0 +1,109 @@
+name: Review submitted tool with GitHub Models
+
+on:
+  pull_request_target:
+    types: [opened, edited, synchronize, reopened]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+  models: read
+
+concurrency:
+  group: tool-review-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  review-tool:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # SECURITY: pull_request_target has access to repository permissions.
+      # Always use trusted files from the base branch. Never checkout or execute
+      # code from github.event.pull_request.head.sha in this workflow.
+      - name: Checkout trusted base branch
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: false
+
+      - name: Extract submitted tool URL
+        id: tool
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const body = context.payload.pull_request.body || '';
+            const urlPattern = /https?:\/\/[^\s)>\]"']+/g;
+            const urls = [...body.matchAll(urlPattern)].map(match => match[0].replace(/[.,;:!?]+$/, ''));
+            const ignoredHosts = new Set(['github.com', 'www.github.com']);
+            const toolUrl = urls.find(value => {
+              try {
+                return !ignoredHosts.has(new URL(value).hostname.toLowerCase());
+              } catch {
+                return false;
+              }
+            });
+
+            if (!toolUrl) {
+              core.setFailed('No tool website URL found in the pull request body. Add the official tool URL to the PR description.');
+              return;
+            }
+
+            core.setOutput('url', toolUrl);
+            core.info(`Submitted tool URL: ${toolUrl}`);
+
+      - name: Collect official website evidence
+        env:
+          TOOL_URL: ${{ steps.tool.outputs.url }}
+        run: node .github/scripts/fetch-tool-website.mjs "$TOOL_URL" website-evidence.txt
+
+      - name: Review with GitHub Models
+        id: inference
+        uses: actions/ai-inference@v2
+        with:
+          prompt-file: .github/prompts/tool-review.prompt.yml
+          input: |
+            tool_url: ${{ steps.tool.outputs.url }}
+            pr_title: ${{ toJSON(github.event.pull_request.title) }}
+          file_input: |
+            website_evidence: website-evidence.txt
+
+      - name: Create or update review comment
+        uses: actions/github-script@v8
+        env:
+          REVIEW_FILE: ${{ steps.inference.outputs.response-file }}
+        with:
+          script: |
+            const fs = require('fs');
+            const marker = '<!-- awesome-tool-github-models-review -->';
+            const review = fs.readFileSync(process.env.REVIEW_FILE, 'utf8').trim();
+            const body = `${marker}\n${review}\n\n---\n_Automated review using GitHub Models. Maintainer verification is recommended._`;
+
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              per_page: 100,
+            });
+
+            const existing = comments.find(comment =>
+              comment.user?.type === 'Bot' && comment.body?.includes(marker)
+            );
+
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existing.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body,
+              });
+            }
