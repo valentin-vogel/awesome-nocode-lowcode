@@ -216,3 +216,4 @@ Nocode enables programmers and non-programmers to create application software th
 
 - [Voiceflow](https://www.voiceflow.com/) - Prototype and launch conversational apps.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website.
+- [n8n-uptime-ping-alert](https://github.com/DeusAcc/n8n-uptime-ping-alert) - Free n8n workflow that checks a site every 5 minutes and alerts on Telegram only on state change (up/down).
