@@ -46,6 +46,7 @@ Nocode enables programmers and non-programmers to create application software th
 
 - [Boltic](https://www.boltic.io/) - AI Workflow Automation, MCP Servers and AI Agents.
 - [Camunda](https://camunda.com/) - Workflow and decision automation.
+- [CodeZero](https://codezero.build) - Source-available automation platform with a visual flow editor to build integrations, scheduled jobs, and HTTP endpoints by chaining logic nodes, with AI-assisted flow editing.
 - [Decisions](https://decisions.com/) - Automate Everything.
 - [FlowForma](https://www.flowforma.com/) - Empower business people to digitize processes in-house, with a digital process automation tool trusted by IT.
 - [Flowise](https://flowiseai.com/) - Build AI agents visually, an open source agentic systems development platform.
