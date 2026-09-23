@@ -135,6 +135,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [8b](https://8b.com/) - Very cheap website builder with code export.
 - [Carrd](https://carrd.co/) - For personal one-page websites.
 - [Duda](https://www.duda.co/) - Professional website builder for all kinds of business.
+- [Figment.so](https://figment.so/) - Publish Figma designs as websites with a Figma plugin.
 - [Framer](https://www.framer.com/) - The site builder trusted by leading Fortune 500 companies.
 - [Hubspot CMS](https://www.hubspot.de/products/cms) - Easy create marketing websites without coding.
 - [Jimdo](https://www.jimdo.com/) - Start your business online, fast and easy.
