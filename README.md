@@ -117,6 +117,7 @@ Nocode enables programmers and non-programmers to create application software th
 
 - [EarlyBird](https://earlybird.im/) - Landing page builder to create, pitch, and validate early-stage business ideas.
 - [ElasticPath](https://www.elasticpath.com/) - Marketing websites with the super power of content, analytics, payments and integrations.
+- [Gatedleads](https://gatedleads.com/) - Lead magnet pages that reveal part of your content and gate the rest behind an email form, with CSV export and Zapier webhooks.
 - [GetResponse](https://getresponse.com/) - Landing pages, email marketing, marketing automation and conversion funnels.
 - [Instapage](https://instapage.com/) - Landing pages with more conversions, page speed optimization, and experimentation features.
 - [Kit](https://kit.com/) - Landing pages and email marketing automation.
