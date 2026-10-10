@@ -44,6 +44,7 @@ Nocode enables programmers and non-programmers to create application software th
 
 ## Automation and Workflows
 
+- [Blueprint Runtime](https://github.com/intikhab49/blueprint-runtime) - Test Make scenarios offline and in CI, open source.
 - [Boltic](https://www.boltic.io/) - AI Workflow Automation, MCP Servers and AI Agents.
 - [Camunda](https://camunda.com/) - Workflow and decision automation.
 - [Decisions](https://decisions.com/) - Automate Everything.
