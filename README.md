@@ -216,3 +216,4 @@ Nocode enables programmers and non-programmers to create application software th
 
 - [Voiceflow](https://www.voiceflow.com/) - Prototype and launch conversational apps.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website.
+- [CurlShot](https://curlshot.com) - Turn any web page into a screenshot, PDF or video. Works in the browser without an account, and in n8n workflows through a community node.
