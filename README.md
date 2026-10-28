@@ -100,6 +100,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [JetAdmin](https://www.jetadmin.io/) - Build apps for your teams without engineering effort.
 - [Joget](https://www.joget.org/) - Open Source platform to easily build, run and maintain apps.
 - [Microsoft Power Apps](https://powerapps.microsoft.com/) - Lowcode app platform.
+- [Newly](https://newly.app/) - Build native iOS and Android apps from natural-language prompts.
 - [Ninox](https://ninox.com/) - Make your business process digital in the cloud.
 - [Odoo](https://www.odoo.com/) - Open Source business management app builder.
 - [Oracle APEX](https://apex.oracle.com/) - Build enterprise apps 20x faster with 100x less code.
