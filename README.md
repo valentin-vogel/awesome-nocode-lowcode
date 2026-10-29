@@ -216,6 +216,7 @@ Nocode enables programmers and non-programmers to create application software th
 ## Scraper
 
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
+- [LucidRows](https://lucidrows.com/?utm_source=github&utm_medium=directory&utm_campaign=valentin-vogel-awesome-nocode-lowcode) - Free Chrome extension: click one item in a list or table to collect every matching row, even across pages, and export to CSV, Excel (.xlsx) or JSON.
 
 ## More (Uncategorized)
 
