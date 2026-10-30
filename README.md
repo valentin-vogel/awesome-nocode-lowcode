@@ -44,6 +44,7 @@ Nocode enables programmers and non-programmers to create application software th
 
 ## Automation and Workflows
 
+- [airtable-view-to-email-csv](https://github.com/viewcourier/airtable-view-to-email-csv) - Google Apps Script that emails an Airtable view as a CSV attachment on a daily or weekly schedule. Free, open source (MIT).
 - [Boltic](https://www.boltic.io/) - AI Workflow Automation, MCP Servers and AI Agents.
 - [Camunda](https://camunda.com/) - Workflow and decision automation.
 - [Decisions](https://decisions.com/) - Automate Everything.
