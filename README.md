@@ -96,6 +96,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [DronaHQ](https://dronahq.com/) - Rapidly build and deploy cloud based apps like data collection apps, online forms, online database app, business process apps, automation apps, internal tools, custom business apps.
 - [Fliplet](https://fliplet.com/) - App builder for mobile and web.
 - [Glide](https://www.glideapps.com/) - Build an app from a Google Sheet.
+- [IdeaMade](https://ideamade.ai) - Build and publish web apps from natural language, with editable product blueprints, reviewable change plans, live previews, and version history.
 - [ILLA Cloud](https://github.com/illacloud/illa-builder) - Accelerate your internal tools development.
 - [JetAdmin](https://www.jetadmin.io/) - Build apps for your teams without engineering effort.
 - [Joget](https://www.joget.org/) - Open Source platform to easily build, run and maintain apps.
