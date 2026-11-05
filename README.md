@@ -135,6 +135,7 @@ Nocode enables programmers and non-programmers to create application software th
 ## Websites
 
 - [8b](https://8b.com/) - Very cheap website builder with code export.
+- [blasa](https://blasa.shop/) - AI website builder that turns a Google Maps listing into a live multilingual website for a local business, using copy from its real customer reviews, with a free plan.
 - [Cactal](https://cactal.ai/) - The website platform for AI agents.
 - [Carrd](https://carrd.co/) - For personal one-page websites.
 - [Duda](https://www.duda.co/) - Professional website builder for all kinds of business.
