@@ -216,6 +216,7 @@ Nocode enables programmers and non-programmers to create application software th
 ## Scraper
 
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
+- [Smart Scraper Studio](https://www.hirewebscraper.com/) - No-code desktop app (Windows, macOS, Linux) that scrapes business directories and Google Maps into Excel/CSV.
 
 ## More (Uncategorized)
 
