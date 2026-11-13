@@ -85,6 +85,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Appsheet](https://www.appsheet.com/) - Mobile App builder.
 - [Appsmith](https://www.appsmith.com/) - Open source framework to build admin panels, CRUD apps and workflows.
 - [Appspotr](https://www.appspotr.com/) - Professional mobile apps, faster and with more control.
+- [AppStruct](https://appstruct.ai/app-builder) - Visual no-code app builder with reusable components, workflows, built-in tables, Supabase and HTTP API connections, and web publishing.
 - [Appypie AppMakr](https://www.appypie.com/app-builder/appmaker) - App builder to make your app without coding.
 - [Betty Blocks](https://www.bettyblocks.com/) - Build Faster and Innovate Smarter with No-Code.
 - [Bubble](https://bubble.io/) - Build production-ready web apps.
