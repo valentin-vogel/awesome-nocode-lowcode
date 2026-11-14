@@ -94,6 +94,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Draftbit](https://draftbit.com/) - Create, customize, and launch mobile apps visually.
 - [Draxlr](https://draxlr.com/) - Get answers from you data, share with your team and customers.
 - [DronaHQ](https://dronahq.com/) - Rapidly build and deploy cloud based apps like data collection apps, online forms, online database app, business process apps, automation apps, internal tools, custom business apps.
+- [EveryApp](https://everyapp.pro/app-builder) - Describe an app in your own words and it gets built for you, with its own web address. No coding.
 - [Fliplet](https://fliplet.com/) - App builder for mobile and web.
 - [Glide](https://www.glideapps.com/) - Build an app from a Google Sheet.
 - [ILLA Cloud](https://github.com/illacloud/illa-builder) - Accelerate your internal tools development.
