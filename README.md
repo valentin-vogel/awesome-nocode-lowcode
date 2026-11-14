@@ -221,3 +221,4 @@ Nocode enables programmers and non-programmers to create application software th
 
 - [Voiceflow](https://www.voiceflow.com/) - Prototype and launch conversational apps.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website.
+- [Page Scope](https://page-scope-1109.crisp-llama-2628.chatgpt.site) - Free Carrd plan requirements checklist and annual budget comparison in USD; optional disclosed referral advertising.
