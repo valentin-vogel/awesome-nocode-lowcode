@@ -216,6 +216,7 @@ Nocode enables programmers and non-programmers to create application software th
 ## Scraper
 
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Extract the transcript of any YouTube video without code, or pull it into workflows through an API and an n8n node.
 
 ## More (Uncategorized)
 
