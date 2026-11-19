@@ -139,6 +139,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Carrd](https://carrd.co/) - For personal one-page websites.
 - [Duda](https://www.duda.co/) - Professional website builder for all kinds of business.
 - [Framer](https://www.framer.com/) - The site builder trusted by leading Fortune 500 companies.
+- [Ginta](https://ginta.app/) - AI website builder for small businesses, also usable from Claude and ChatGPT.
 - [Hubspot CMS](https://www.hubspot.de/products/cms) - Easy create marketing websites without coding.
 - [Jimdo](https://www.jimdo.com/) - Start your business online, fast and easy.
 - [Quarkly](https://quarkly.io/) - Design tool for creating websites and web apps.
