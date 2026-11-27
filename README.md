@@ -47,6 +47,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Boltic](https://www.boltic.io/) - AI Workflow Automation, MCP Servers and AI Agents.
 - [Camunda](https://camunda.com/) - Workflow and decision automation.
 - [Decisions](https://decisions.com/) - Automate Everything.
+- [EXTREMELY Autonomous Agents](https://extremely.agency) - Free, open-source AI agency that runs on your own computer for Mac, Windows and Linux, with agents that work on a schedule.
 - [FlowForma](https://www.flowforma.com/) - Empower business people to digitize processes in-house, with a digital process automation tool trusted by IT.
 - [Flowise](https://flowiseai.com/) - Build AI agents visually, an open source agentic systems development platform.
 - [Heym](https://github.com/heymrun/heym) - Self-hosted visual platform for AI workflows with agents, RAG, MCP, human approvals, evals, and tracing.
