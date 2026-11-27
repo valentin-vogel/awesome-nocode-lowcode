@@ -141,6 +141,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Framer](https://www.framer.com/) - The site builder trusted by leading Fortune 500 companies.
 - [Hubspot CMS](https://www.hubspot.de/products/cms) - Easy create marketing websites without coding.
 - [Jimdo](https://www.jimdo.com/) - Start your business online, fast and easy.
+- [Netcraft Studio](https://netcraft.studio/en) - AI website builder for small service businesses, from a short description to an editable multi-page site on your own domain.
 - [Quarkly](https://quarkly.io/) - Design tool for creating websites and web apps.
 - [Shopify](https://www.shopify.com/) - E-commerce website builder.
 - [Squarespace](https://squarespace.com/) - Professional website builder.
